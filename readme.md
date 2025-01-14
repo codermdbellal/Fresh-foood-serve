@@ -6,7 +6,7 @@ Welcome to my **Fres-Food-Selling website**! This project was created for practi
 
 ## Demo
 
-![Portfolio Demo](https://i.postimg.cc/zv2GRp75/Organic-Grocery-Store-HTML-Website-Template-01-14-2025-10-22-PM.png)
+![Portfolio Demo](https://i.postimg.cc/wvxLdfbQ/Organic-Grocery-Store-HTML-Website-Template-01-14-2025-10-49-PM.png)
 
 ---
 
