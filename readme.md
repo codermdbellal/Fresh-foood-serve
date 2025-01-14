@@ -53,7 +53,7 @@ Check out the live preview of the portfolio website here:
 2. After forking, open your terminal and run the following commands to clone the repo:
 
   ```bash
-  git clone gh repo clone codermdbellal/Fresh-foood-serve
+  git cole https://github.com/codermdbellal/Fresh-foood-serve.git
   ```
 Navigate to the Project Directory 📂
 Once the repository is cloned, change your directory to the project folder:
