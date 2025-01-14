@@ -2,13 +2,6 @@
 
 
 # Organi Food selling website create by MD.Bellal Hosen
-<div align="center">
-  <pre>
-    
-  </pre>
-</div>
-
- 
 Welcome to my **Fres-food-Selling website**! this project actullay create practise and showcase in my portfolio
 ---
 
@@ -22,12 +15,8 @@ Welcome to my **Fres-food-Selling website**! this project actullay create practi
 
 Check out the live preview of the portfolio website here:  
 [**Live Demo**]()
----
-### 🎯 Project Structure
-
 
 ## Sections of the FresFood selling website
-
 - **Home**:
 - **Abouts**: 
 - **Shop**: 
@@ -35,7 +24,6 @@ Check out the live preview of the portfolio website here:
 - **Cart**: 
 - **Blog**: 
 - **Contact**: 
-
 ---
 
 ## 💻 Technologies Used vanila javascript and css famework bootstrap
