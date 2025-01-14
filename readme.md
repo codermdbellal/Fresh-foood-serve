@@ -12,7 +12,7 @@ Welcome to my **Fres-Food-Selling website**! This project was created for practi
 
 ## Live Preview
 
-Check out the live preview of the portfolio website here:  
+Check out the live preview of the FresFood  website here:  
 [**Live Demo**](#)
 
 ---
